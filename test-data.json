@@ -1,0 +1,1949 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "name": "Spooktacular Sustainability Challenge - Presented by Earth Guardians MODA",
+        "eventDate": "10/31/2020",
+        "timestamp": "2020-10-31T15:00:00Z",
+        "eventLink": "https://www.museumofdesign.org/calendar/earth-guardians-spooktacular-sustainability-challenge",
+        "location": "250 SE 5th Avenue, Pompano Beach, FL 33060",
+        "state": "FL",
+        "city": "Pompano Beach",
+        "zipCode": "33060",
+        "eventType": "virtual",
+        "featured": false,
+        "icon": "virtual"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.116223,
+          26.227132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "name": "Follow Me Home Fireside Chats",
+        "eventDate": "10/29/2020",
+        "timestamp": "2020-10-29T17:00:00Z",
+        "eventLink": "https://www.followmehomethemovie.com/events",
+        "location": "3630 Marathon, Los Angeles, CA 90026",
+        "state": "CA",
+        "city": "Los Angeles",
+        "zipCode": "90026",
+        "eventType": "in-person",
+        "featured": false,
+        "icon": "in-person"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.28237,
+          34.08351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "name": "Follow Me Home Events - Cast and Crew",
+        "eventDate": "10/28/2020",
+        "timestamp": "2020-10-28T17:00:00Z",
+        "eventLink": "https://www.followmehomethemovie.com/events",
+        "location": "3630 Marathon, Los Angeles, CA 90026",
+        "state": "CA",
+        "city": "Los Angeles",
+        "zipCode": "90026",
+        "eventType": "in-person",
+        "featured": false,
+        "icon": "in-person"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.28237,
+          34.08351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "name": "Follow Me Home Community Chats",
+        "eventDate": "10/30/2020",
+        "timestamp": "2020-10-30T17:00:00Z",
+        "eventLink": "https://www.followmehomethemovie.com/events",
+        "location": "3630 Marathon, Los Angeles, CA 90026",
+        "state": "CA",
+        "city": "Los Angeles",
+        "zipCode": "90026",
+        "eventType": "in-person",
+        "featured": false,
+        "icon": "in-person"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.28237,
+          34.08351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "name": "Follow Me Home - Film Screening",
+        "eventDate": "10/23/2020",
+        "timestamp": "2020-10-23T20:00:00Z",
+        "eventLink": "https://www.followmehomethemovie.com/events",
+        "location": "3630 Marathon, Los Angeles, CA 90026",
+        "state": "CA",
+        "city": "Los Angeles",
+        "zipCode": "90026",
+        "eventType": "virtual",
+        "featured": false,
+        "icon": "virtual"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.28237,
+          34.08351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "properties": {
+        "name": "Us Kids Film: Early Voter Sneak Preview",
+        "eventDate": "10/24/2020",
+        "timestamp": "2020-10-24T18:00:00Z",
+        "eventLink": "https://UsKidsFilm.com/SneakPeek",
+        "location": "Times Square, New York, New York, NY 10108",
+        "state": "NY",
+        "city": "New York, New York",
+        "zipCode": "10108",
+        "eventType": "virtual",
+        "featured": false,
+        "icon": "virtual"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.986846,
+          40.755576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "properties": {
+        "name": "Houston 10/24 Action!\t",
+        "eventDate": "10/24/2020",
+        "timestamp": "2020-10-24T12:00:00Z",
+        "eventLink": "https://www.actionnetwork.org/events/Houston-10-24-Action",
+        "location": "5601 West Loop St, Houston, TX, Houston, TX 77081",
+        "state": "TX",
+        "city": "Houston",
+        "zipCode": "77081",
+        "eventType": "in-person",
+        "featured": false,
+        "icon": "in-person"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.361416,
+          29.784753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "properties": {
+        "name": "Dance To The Polls Houston ",
+        "eventDate": "10/29/2020",
+        "timestamp": "2020-10-29T17:00:00Z",
+        "eventLink": "https://www.actionnetwork.org/events/Dance-To-The-Polls-Houston",
+        "location": "8825 Kirby Drive, Houston, TX 77054",
+        "state": "TX",
+        "city": "Houston",
+        "zipCode": "77054",
+        "eventType": "in-person",
+        "featured": false,
+        "icon": "in-person"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4124541,
+          29.6810506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "properties": {
+        "name": "#VoteWithUs OCVA",
+        "eventDate": "10/24/2020",
+        "timestamp": "2020-10-24T09:00:00Z",
+        "eventLink": "https://www.actionnetwork.org/events/VoteWithUs-OCVA",
+        "location": "146 Madison Road, Suite 204, Orange, VA 22960",
+        "state": "VA",
+        "city": "Orange",
+        "zipCode": "22960",
+        "eventType": "virtual",
+        "featured": false,
+        "icon": "virtual"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.112317,
+          38.246541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "properties": {
+        "name": "March on the Polls - Manhattan",
+        "eventDate": "10/24/2020",
+        "timestamp": "2020-10-24T14:30:00Z",
+        "eventLink": "https://www.plus1campaign.org/marchtothepolls",
+        "location": "848 Columbus Cir, New York, NY 10019",
+        "state": "NY",
+        "city": "New York",
+        "zipCode": "10019",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.982376,
+          40.768019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "properties": {
+        "name": "March on the Polls - Manhattan",
+        "eventDate": "10/24/2020",
+        "timestamp": "2020-10-24T13:00:00Z",
+        "eventLink": "https://www.plus1campaign.org/marchtothepolls",
+        "location": "Washington Square N, New York, NY 10012",
+        "state": "NY",
+        "city": "New York",
+        "zipCode": "10012",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.997746,
+          40.731859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "properties": {
+        "name": "March on the Polls - Bronx, NY",
+        "eventDate": "10/24/2020",
+        "timestamp": "2020-10-24T12:30:00Z",
+        "eventLink": "https://www.plus1campaign.org/marchtothepolls",
+        "location": "851 Grand Concourse, New York, NY 10451",
+        "state": "NY",
+        "city": "New York",
+        "zipCode": "10451",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92332,
+          40.826113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "properties": {
+        "name": "Get Out The Vote with Blue Future!",
+        "eventDate": "11/2/2020",
+        "timestamp": "2020-11-02T09:00:00Z",
+        "eventLink": "https://www.mobilize.us/bluefuture/event/324752/",
+        "location": "George Paletta Building 120 2nd Avenue, Suite A, Des Moines, IA 50309",
+        "state": "IA",
+        "city": "Des Moines",
+        "zipCode": "50309",
+        "eventType": "virtual",
+        "featured": false,
+        "icon": "virtual"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.619242,
+          41.584899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "properties": {
+        "name": "Get Out The Vote with Blue Future!",
+        "eventDate": "10/29/2020",
+        "timestamp": "2020-10-29T09:00:00Z",
+        "eventLink": "https://www.mobilize.us/bluefuture/event/324752/",
+        "location": "George Paletta Building 120 2nd Avenue, Suite A, Des Moines, IA 50309",
+        "state": "IA",
+        "city": "Des Moines",
+        "zipCode": "50309",
+        "eventType": "virtual",
+        "featured": false,
+        "icon": "virtual"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.619242,
+          41.584899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "properties": {
+        "name": "Get Out The Vote with Blue Future!",
+        "eventDate": "10/30/2020",
+        "timestamp": "2020-10-30T09:00:00Z",
+        "eventLink": "https://www.mobilize.us/bluefuture/event/324752/",
+        "location": "Detroit Department of Elections  2978 W. Grand Blvd., Detroit, MI 48202",
+        "state": "MI",
+        "city": "Detroit",
+        "zipCode": "48202",
+        "eventType": "virtual",
+        "featured": false,
+        "icon": "virtual"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.077599,
+          42.368177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "properties": {
+        "name": "Get Out The Vote with Blue Future!",
+        "eventDate": "10/31/2020",
+        "timestamp": "2020-10-31T09:00:00Z",
+        "eventLink": "https://www.mobilize.us/bluefuture/event/324752/",
+        "location": "City Hall, Room 501 200 E. Wells Street, Milwaukee, WI 53202",
+        "state": "WI",
+        "city": "Milwaukee",
+        "zipCode": "53202",
+        "eventType": "virtual",
+        "featured": false,
+        "icon": "virtual"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.909644,
+          43.04168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "properties": {
+        "name": "Get Out The Vote with Blue Future!",
+        "eventDate": "11/3/2020",
+        "timestamp": "2020-11-03T09:00:00Z",
+        "eventLink": "https://www.mobilize.us/bluefuture/event/324752/",
+        "location": "City Hall, Room 142 1400 John F Kennedy Blvd, Philadelphia, PA 19107",
+        "state": "PA",
+        "city": "Philadelphia",
+        "zipCode": "19107",
+        "eventType": "virtual",
+        "featured": false,
+        "icon": "virtual"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.164202,
+          39.953129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "properties": {
+        "name": "Get Out The Vote with Blue Future!",
+        "eventDate": "10/28/2020",
+        "timestamp": "2020-10-28T09:00:00Z",
+        "eventLink": "https://www.mobilize.us/bluefuture/event/324752/",
+        "location": "City Hall, Room 142 1400 John F Kennedy Blvd, Philadelphia, PA 19107",
+        "state": "PA",
+        "city": "Philadelphia",
+        "zipCode": "19107",
+        "eventType": "virtual",
+        "featured": false,
+        "icon": "virtual"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.164202,
+          39.953129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "properties": {
+        "name": "Get Out The Vote with Blue Future!",
+        "eventDate": "11/1/2020",
+        "timestamp": "2020-11-01T09:00:00Z",
+        "eventLink": "https://www.mobilize.us/bluefuture/event/324752/",
+        "location": "741 Kenilworth Ave. Suite 202, Charlotte, NC 28204",
+        "state": "NC",
+        "city": "Charlotte",
+        "zipCode": "28204",
+        "eventType": "virtual",
+        "featured": false,
+        "icon": "virtual"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.837185,
+          35.209823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "properties": {
+        "name": "DRAG TO THE POLLS - BLO POP #VoteWithUs",
+        "eventDate": "10/24/2020",
+        "timestamp": "2020-10-24T20:00:00Z",
+        "eventLink": "https://www.xbardenver.com",
+        "location": "629 E. Colfax Avenue,, Denver, CO 80203",
+        "state": "CO",
+        "city": "Denver",
+        "zipCode": "80203",
+        "eventType": "in-person",
+        "featured": false,
+        "icon": "in-person"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.979022,
+          39.740147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "properties": {
+        "name": "Your Vote, Your World",
+        "eventDate": "10/24/2020",
+        "timestamp": "2020-10-24T13:00:00Z",
+        "eventLink": "https://www.earthday.org/yourvoteyourworld/",
+        "location": "1600 Pennsylvania Avenue NW, Washington, DC 20500",
+        "state": "DC",
+        "city": "Washington",
+        "zipCode": "20500",
+        "eventType": "virtual",
+        "featured": false,
+        "icon": "virtual"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.036547,
+          38.897675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "properties": {
+        "name": "Vote With Us, Broward!",
+        "eventDate": "10/24/2020",
+        "timestamp": "2020-10-24T10:00:00Z",
+        "eventLink": "https://actionnetwork.org/events/vote-with-us-broward",
+        "location": "1518 NW 40th Ave, Lauderhill, FL 33313",
+        "state": "FL",
+        "city": "Lauderhill",
+        "zipCode": "33313",
+        "eventType": "in-person",
+        "featured": false,
+        "icon": "in-person"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.211087,
+          26.147543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "properties": {
+        "name": "Nourishing Civic Joy | An Art Performance Programs with For Freedoms and Club House Global",
+        "eventDate": "10/24/2020",
+        "timestamp": "2020-10-24T14:00:00Z",
+        "eventLink": "https://www.clubhouse-global.com/",
+        "location": "1301PE Gallery Parking Lot, 6150 Wilshire Blvd, Los Angeles 90048, Los Angeles, CA 90048",
+        "state": "CA",
+        "city": "Los Angeles",
+        "zipCode": "90048",
+        "eventType": "virtual",
+        "featured": false,
+        "icon": "virtual"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.36333,
+          34.06299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "properties": {
+        "name": "Civic Joy Ride",
+        "eventDate": "10/24/2020",
+        "timestamp": "2020-10-24T10:00:00Z",
+        "eventLink": "https://actionnetwork.org/events/civic-joy-ride",
+        "location": "1301PE Gallery Parking Lot, 6150 Wilshire Blvd, Los Angeles 90048, Los Angeles, CA 90048",
+        "state": "CA",
+        "city": "Los Angeles",
+        "zipCode": "90048",
+        "eventType": "in-person",
+        "featured": false,
+        "icon": "in-person"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.36333,
+          34.06299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "properties": {
+        "name": "WE THE PEOPLE ARE AWAKE",
+        "eventDate": "10/24/2020",
+        "timestamp": "2020-10-24T13:00:00Z",
+        "eventLink": "https://www.actionnetwork.org/events/we-the-people-are-awake",
+        "location": "1825 Edith Blvd NE, Albuquerque, NM 87102",
+        "state": "NM",
+        "city": "Albuquerque",
+        "zipCode": "87102",
+        "eventType": "in-person",
+        "featured": false,
+        "icon": "in-person"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6302202,
+          35.131897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "properties": {
+        "name": "Vote For the Future Virtual Phone Banking Event",
+        "eventDate": "11/1/2020",
+        "timestamp": "2020-11-01T19:30:00Z",
+        "eventLink": "https://www.votecommongood.com/vote-for-the-future/",
+        "location": "7455 France Ave S, Edina, MN 55435",
+        "state": "MN",
+        "city": "Edina",
+        "zipCode": "55435",
+        "eventType": "virtual",
+        "featured": false,
+        "icon": "virtual"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.326468,
+          44.867502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "properties": {
+        "name": "Vote For the Future Virtual Phone Banking Event",
+        "eventDate": "10/25/2020",
+        "timestamp": "2020-10-25T19:30:00Z",
+        "eventLink": "https://www.votecommongood.com/vote-for-the-future/",
+        "location": "7455 France Ave S, Edina, MN 55435",
+        "state": "MN",
+        "city": "Edina",
+        "zipCode": "55435",
+        "eventType": "virtual",
+        "featured": false,
+        "icon": "virtual"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.326468,
+          44.867502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "properties": {
+        "name": "Vote For the Future Rally NC",
+        "eventDate": "10/20/2020",
+        "timestamp": "2020-10-20T17:00:00Z",
+        "eventLink": "https://www.votecommongood.com/2020-national-bus-tour/winston-salem-north-carolina/",
+        "location": "4129 Northampton Dr., Winston-Salem, NC 27105",
+        "state": "NC",
+        "city": "Winston-Salem",
+        "zipCode": "27105",
+        "eventType": "in-person",
+        "featured": false,
+        "icon": "in-person"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.193094,
+          36.148793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "properties": {
+        "name": "Vote For the Future Rally NC",
+        "eventDate": "10/18/2020",
+        "timestamp": "2020-10-18T15:00:00Z",
+        "eventLink": "https://www.votecommongood.com/2020-national-bus-tour/charlotte-north-carolina/",
+        "location": "420 E 15th St, Charlotte, NC 28206",
+        "state": "NC",
+        "city": "Charlotte",
+        "zipCode": "28206",
+        "eventType": "in-person",
+        "featured": false,
+        "icon": "in-person"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.826296,
+          35.233276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "properties": {
+        "name": "Vote Common Good Rally PA",
+        "eventDate": "10/31/2020",
+        "timestamp": "2020-10-31T13:00:00Z",
+        "eventLink": "https://www.votecommongood.com/2020-national-bus-tour/hershey-pennsylvania/",
+        "location": "48 W Chocolate Ave., Hershey, PA 17033",
+        "state": "PA",
+        "city": "Hershey",
+        "zipCode": "17033",
+        "eventType": "in-person",
+        "featured": false,
+        "icon": "in-person"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6515281,
+          40.2851819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "properties": {
+        "name": "Vote Common Good Rally PA",
+        "eventDate": "10/25/2020",
+        "timestamp": "2020-10-25T13:30:00Z",
+        "eventLink": "https://www.votecommongood.com/vote-for-the-future/",
+        "location": "East Broad and Pine St., Hazleton, PA 18201",
+        "state": "PA",
+        "city": "Hazleton",
+        "zipCode": "18201",
+        "eventType": "in-person",
+        "featured": false,
+        "icon": "in-person"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.970343,
+          40.949949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "properties": {
+        "name": "Vote Common Good Rally OH",
+        "eventDate": "10/23/2020",
+        "timestamp": "2020-10-23T16:00:00Z",
+        "eventLink": "https://www.votecommongood.com/2020-national-bus-tour/canton-ohio/",
+        "location": "115 Central Plaza North Suite 101, Canton, OH 44702",
+        "state": "OH",
+        "city": "Canton",
+        "zipCode": "44702",
+        "eventType": "in-person",
+        "featured": false,
+        "icon": "in-person"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.374844,
+          40.799077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "properties": {
+        "name": "Vote Common Good Rally NC",
+        "eventDate": "10/19/2020",
+        "timestamp": "2020-10-19T15:00:00Z",
+        "eventLink": "https://www.votecommongood.com/2020-national-bus-tour/durham-north-carolina/",
+        "location": "923 Onslow St., Durham, NC 27705",
+        "state": "NC",
+        "city": "Durham",
+        "zipCode": "27705",
+        "eventType": "in-person",
+        "featured": false,
+        "icon": "in-person"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.914747,
+          36.013082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "properties": {
+        "name": "Solidarity 2020: Election Day Interludes",
+        "eventDate": "11/3/2020",
+        "timestamp": "2020-11-03T11:00:00Z",
+        "eventLink": "https://fb.me/e/1F9mpXkN2",
+        "location": "Pier Plaza Amphitheatre, The Strand N, Oceanside, CA 92054",
+        "state": "CA",
+        "city": "Oceanside",
+        "zipCode": "92054",
+        "eventType": "virtual",
+        "featured": false,
+        "icon": "virtual"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.384791,
+          33.195021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "properties": {
+        "name": "Protect the Sacred with Your Vote Trail Ride ",
+        "eventDate": "10/20/2020",
+        "timestamp": "2020-10-20T10:00:00Z",
+        "eventLink": "https://www.actionnetwork.org/events/Protect-the-Sacred-with-Your-Vote-Trail-Ride",
+        "location": "391 US-163, Kayenta, AZ 86033",
+        "state": "AZ",
+        "city": "Kayenta",
+        "zipCode": "86033",
+        "eventType": "in-person",
+        "featured": false,
+        "icon": "in-person"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.255667,
+          36.709121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "properties": {
+        "name": "Proactive Poll Worker Election Protection Training",
+        "eventDate": "10/25/2020",
+        "timestamp": "2020-10-25T16:00:00Z",
+        "eventLink": "https://proactive-poll-worker-training.eventbrite.com",
+        "location": "945 Taraval Street #265, San Francisco, CA 94116",
+        "state": "CA",
+        "city": "San Francisco",
+        "zipCode": "94116",
+        "eventType": "virtual",
+        "featured": false,
+        "icon": "virtual"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4764068,
+          37.7428442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "properties": {
+        "name": "Kenema - sierra leone Vote With Us Event (Get Out The Vote Campaign)",
+        "eventDate": "10/24/2020",
+        "timestamp": "2020-10-24T09:00:00Z",
+        "eventLink": "https://www.actionnetwork.org/events/kenema-sierra-leone-vote-with-us-event-get-out-the-vote-campaign",
+        "location": "25 Hangha road, Kenema, OK 24735",
+        "state": "OK",
+        "city": "Kenema",
+        "zipCode": "24735",
+        "eventType": "in-person",
+        "featured": false,
+        "icon": "in-person"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.508021,
+          35.455622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "properties": {
+        "name": "Education on the Biden Campaign and the Colorado Ballot",
+        "eventDate": "10/24/2020",
+        "timestamp": "2020-10-24T16:00:00Z",
+        "eventLink": "https://www.actionnetwork.org/events/Education-on-the-Biden-Campaign-and-the-Colorado-Ballot",
+        "location": "Southwest Plaza, 8501 West Bowles Ave., Littleton, CO 80123",
+        "state": "CO",
+        "city": "Littleton",
+        "zipCode": "80123",
+        "eventType": "in-person",
+        "featured": false,
+        "icon": "in-person"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.095587,
+          39.610754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "properties": {
+        "name": "Bystander Intervention to Stop Voter Harassment at the Polls",
+        "eventDate": "10/20/2020",
+        "timestamp": "2020-10-20T16:00:00Z",
+        "eventLink": "https://zoom.us/webinar/register/WN_cPDkA02QR42nxuWdrRO0JA",
+        "location": "30 3rd Ave, Brooklyn, NY 11217",
+        "state": "NY",
+        "city": "Brooklyn",
+        "zipCode": "11217",
+        "eventType": "virtual",
+        "featured": false,
+        "icon": "virtual"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.980591,
+          40.68574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "properties": {
+        "name": "Bake America Great Again",
+        "eventDate": "10/24/2020",
+        "timestamp": "2020-10-24T10:00:00Z",
+        "eventLink": "https://savethepostoffice.us/",
+        "location": "7455 France Ave S, Edina, MN 55435",
+        "state": "MN",
+        "city": "Edina",
+        "zipCode": "55435",
+        "eventType": "virtual",
+        "featured": false,
+        "icon": "virtual"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.326468,
+          44.867502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "properties": {
+        "name": "A Quick Election Protection Action Nearly Everyone Can and Must Do",
+        "eventDate": "10/23/2020",
+        "timestamp": "2020-10-23T10:00:00Z",
+        "eventLink": "https://poll-tapes-training.eventbrite.com",
+        "location": "945 Taraval Street #265, San Francisco, CA 94116",
+        "state": "CA",
+        "city": "San Francisco",
+        "zipCode": "94116",
+        "eventType": "virtual",
+        "featured": false,
+        "icon": "virtual"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4764068,
+          37.7428442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "properties": {
+        "name": "#EarlyVoteWS Day",
+        "eventDate": "10/23/2020",
+        "timestamp": "2020-10-23T10:00:00Z",
+        "eventLink": "https://actionnetwork.org/events/earlyvotews-day",
+        "location": "4725 Indiana Ave, Winston-Salem, NC 27106",
+        "state": "NC",
+        "city": "Winston-Salem",
+        "zipCode": "27106",
+        "eventType": "in-person",
+        "featured": false,
+        "icon": "in-person"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.269761,
+          36.157481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "properties": {
+        "name": "San Francisco parade to the ballot box #walkthevote",
+        "eventDate": "10/31/2020",
+        "timestamp": "2020-10-31T12:00:00Z",
+        "eventLink": "https://www.mobilize.us/walkthevote/event/349820",
+        "location": "2621 Harrison St, San Francisco, CA 94110, USA, San Francisco, CA 94110",
+        "state": "CA",
+        "city": "San Francisco",
+        "zipCode": "94110",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.412348,
+          37.755129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "properties": {
+        "name": "Sitka parade to the ballot box #walkthevote",
+        "eventDate": "10/24/2020",
+        "timestamp": "2020-10-24T12:00:00Z",
+        "eventLink": "https://www.mobilize.us/walkthevote/event/349244",
+        "location": "O'Connell Bridge, Sitka, AK 99835, USA, Sitka, AK 99835",
+        "state": "AK",
+        "city": "Sitka",
+        "zipCode": "99835",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.34052,
+          57.047874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "properties": {
+        "name": "San Francisco parade to the ballot box #walkthevote",
+        "eventDate": "11/3/2020",
+        "timestamp": "2020-11-03T12:00:00Z",
+        "eventLink": "https://www.mobilize.us/walkthevote/event/346303",
+        "location": "2 Marina Blvd, San Francisco, CA 94123, USA, San Francisco, CA 94123",
+        "state": "CA",
+        "city": "San Francisco",
+        "zipCode": "94123",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431809,
+          37.806722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "properties": {
+        "name": "Colorado Springs parade to the ballot box #walkthevote",
+        "eventDate": "11/3/2020",
+        "timestamp": "2020-11-03T12:00:00Z",
+        "eventLink": "https://www.mobilize.us/walkthevote/event/343763",
+        "location": "115 E Platte Ave, Colorado Springs, CO 80903, USA, Colorado Springs, CO 80903",
+        "state": "CO",
+        "city": "Colorado Springs",
+        "zipCode": "80903",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.822427,
+          38.837317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "properties": {
+        "name": "Colorado Springs parade to the ballot box #walkthevote",
+        "eventDate": "10/25/2020",
+        "timestamp": "2020-10-25T12:00:00Z",
+        "eventLink": "https://www.mobilize.us/walkthevote/event/343763",
+        "location": "115 E Platte Ave, Colorado Springs, CO 80903, USA, Colorado Springs, CO 80903",
+        "state": "CO",
+        "city": "Colorado Springs",
+        "zipCode": "80903",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.822427,
+          38.837317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "properties": {
+        "name": "Paramus parade to the ballot box #walkthevote",
+        "eventDate": "11/2/2020",
+        "timestamp": "2020-11-02T12:00:00Z",
+        "eventLink": "https://www.mobilize.us/walkthevote/event/341005",
+        "location": "203 E Midland Ave, Paramus, NJ 07652, USA, Paramus, NJ 7652",
+        "state": "NJ",
+        "city": "Paramus",
+        "zipCode": "7652",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0543,
+          40.946538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "properties": {
+        "name": "Drag to the Polls LA Pink Carpet",
+        "eventDate": "10/31/2020",
+        "timestamp": "2020-10-31T16:00:00Z",
+        "eventLink": "https://www.actionnetwork.org/events/drag-to-the-polls-la-pink-carpet",
+        "location": "8300 Santa Monica Blvd, West Hollywood, CA 90069, Los Angeles, CA 90069",
+        "state": "CA",
+        "city": "Los Angeles",
+        "zipCode": "90069",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.380819,
+          34.087378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "properties": {
+        "name": "Vote With Us Bus Tour - Miami, FL",
+        "eventDate": "10/24/2020",
+        "timestamp": "2020-10-24T16:00:00Z",
+        "eventLink": "https://www.actionnetwork.org/events/vote-with-us-bus-tour-miami-fl",
+        "location": "835 Northeast 132nd Street, Miami, FL 33161",
+        "state": "FL",
+        "city": "Miami",
+        "zipCode": "33161",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.181775,
+          25.897197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "properties": {
+        "name": "Vote With Us Bus Tour - Birmingham, AL",
+        "eventDate": "10/20/2020",
+        "timestamp": "2020-10-20T15:00:00Z",
+        "eventLink": "https://www.actionnetwork.org/events/vote-with-us-bus-tour-birmingham-al-2",
+        "location": "710 20th Street N, Birmingham, AL 35203",
+        "state": "AL",
+        "city": "Birmingham",
+        "zipCode": "35203",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8101863,
+          33.5197036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "properties": {
+        "name": "Vote With Us Bus Tour - Birmingham, AL",
+        "eventDate": "10/18/2020",
+        "timestamp": "2020-10-18T15:00:00Z",
+        "eventLink": "https://www.actionnetwork.org/events/vote-with-us-bus-tour-birmingham-al",
+        "location": "710 20th Street N, Birmingham, AL 35203",
+        "state": "AL",
+        "city": "Birmingham",
+        "zipCode": "35203",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8101863,
+          33.5197036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "properties": {
+        "name": "Vote With Us Bus Tour - Charlotte, NC",
+        "eventDate": "10/29/2020",
+        "timestamp": "2020-10-29T16:00:00Z",
+        "eventLink": "https://www.actionnetwork.org/events/vote-with-us-bus-tour-charlotte-nc",
+        "location": "300 S Church Street, Charlotte, NC 28202",
+        "state": "NC",
+        "city": "Charlotte",
+        "zipCode": "28202",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.847325,
+          35.226974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "properties": {
+        "name": "Vote With Us Bus Tour - Fayetteville, NC",
+        "eventDate": "10/28/2020",
+        "timestamp": "2020-10-28T11:00:00Z",
+        "eventLink": "https://www.actionnetwork.org/events/vote-with-us-bus-tour-fayetteville-nc",
+        "location": "708 Langdon Street, Fayetteville, NC 28301",
+        "state": "NC",
+        "city": "Fayetteville",
+        "zipCode": "28301",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8952375,
+          35.077125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "properties": {
+        "name": "Vote With Us Bus Tour - Orlando, FL",
+        "eventDate": "10/25/2020",
+        "timestamp": "2020-10-25T15:00:00Z",
+        "eventLink": "https://www.actionnetwork.org/events/vote-with-us-bus-tour-orlando-fl",
+        "location": "400 W Church Street, Orlando, FL 32801",
+        "state": "FL",
+        "city": "Orlando",
+        "zipCode": "32801",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.384039,
+          28.540066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "properties": {
+        "name": "Vote With Us Bus Tour - Montgomery, AL",
+        "eventDate": "10/19/2020",
+        "timestamp": "2020-10-19T14:00:00Z",
+        "eventLink": "https://www.actionnetwork.org/events/vote-with-us-bus-tour-montgomery-al",
+        "location": "150 Dexter Street, Montgomery, AL 36104",
+        "state": "AL",
+        "city": "Montgomery",
+        "zipCode": "36104",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.239651,
+          32.359185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "properties": {
+        "name": "Vote With Us Bus Tour - Chattanooga, TN",
+        "eventDate": "10/22/2020",
+        "timestamp": "2020-10-22T14:00:00Z",
+        "eventLink": "https://www.actionnetwork.org/events/vote-with-us-bus-tour-chattanooga-tn",
+        "location": "1010 N. Moore Road, Chattanooga, TN 37411",
+        "state": "TN",
+        "city": "Chattanooga",
+        "zipCode": "37411",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.218099,
+          35.025175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "properties": {
+        "name": "Vote With Us Bus Tour - Columbia, SC // location TBC",
+        "eventDate": "10/27/2020",
+        "timestamp": "2020-10-27T14:00:00Z",
+        "eventLink": "https://airtable.com/shrWgJiFH881Di0vr",
+        "location": "1505 Harden Street, Columbia, SC 29204",
+        "state": "SC",
+        "city": "Columbia",
+        "zipCode": "29204",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0207612,
+          34.0097889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "properties": {
+        "name": "Vote With Us Bus Tour - Atlanta, GA",
+        "eventDate": "10/30/2020",
+        "timestamp": "2020-10-30T15:00:00Z",
+        "eventLink": "https://www.actionnetwork.org/events/vote-with-us-bus-tour-atlanta-ga-3",
+        "location": "55 Trinity Ave SW, Atlanta, GA 30303",
+        "state": "GA",
+        "city": "Atlanta",
+        "zipCode": "30303",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.390547,
+          33.74862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "properties": {
+        "name": "Vote With Us Bus Tour - Nashville, TN",
+        "eventDate": "10/21/2020",
+        "timestamp": "2020-10-21T12:00:00Z",
+        "eventLink": "https://www.actionnetwork.org/events/vote-with-us-bus-tour-nashville-tn",
+        "location": "700 2nd Ave. South, Nashville, TN 37210",
+        "state": "TN",
+        "city": "Nashville",
+        "zipCode": "37210",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.768528,
+          36.154117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "properties": {
+        "name": "Girl Up Upstate New York GOTV Text Banking Event",
+        "eventDate": "10/15/2020",
+        "timestamp": "2020-10-15T17:00:00Z",
+        "eventLink": "https://forms.gle/rExE5cq5uDe9Urac6",
+        "location": "401- 425 South Avenue, Syracuse, NY 13204",
+        "state": "NY",
+        "city": "Syracuse",
+        "zipCode": "13204",
+        "eventType": "virtual",
+        "featured": false,
+        "icon": "virtual"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.148211,
+          43.043536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62,
+      "properties": {
+        "name": "Colorado Ballot Party",
+        "eventDate": "10/27/2020",
+        "timestamp": "2020-10-27T18:00:00Z",
+        "eventLink": "https://actionnetwork.org/events/colorado-ballot-party",
+        "location": "1601 Chestnut Pl, Denver, CO 80202",
+        "state": "CO",
+        "city": "Denver",
+        "zipCode": "80202",
+        "eventType": "virtual",
+        "featured": false,
+        "icon": "virtual"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0029516,
+          39.7543261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 63,
+      "properties": {
+        "name": "Vote With Us Virtual Rally",
+        "eventDate": "10/24/2020",
+        "timestamp": "2020-10-24T12:00:00Z",
+        "eventLink": "https://actionnetwork.org/events/vote-with-us-virtual-rally",
+        "location": "800 North Alameda Street, Los Angeles, CA 90012",
+        "state": "CA",
+        "city": "Los Angeles",
+        "zipCode": "90012",
+        "eventType": "virtual",
+        "featured": true,
+        "icon": "virtual-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23752,
+          34.05494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "properties": {
+        "name": "Vote With Us Bus Tour - Fort Worth, TX",
+        "eventDate": "10/15/2020",
+        "timestamp": "2020-10-15T16:00:00Z",
+        "eventLink": "https://actionnetwork.org/events/Vote-With-Us-Bus-Tour-Fort-Worth-TX-5",
+        "location": "6201 Beaty Street, Forth Worth, TX 76112",
+        "state": "TX",
+        "city": "Forth Worth",
+        "zipCode": "76112",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.222631,
+          32.740977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 65,
+      "properties": {
+        "name": "Vote With Us Bus Tour - Austin, TX",
+        "eventDate": "10/14/2020",
+        "timestamp": "2020-10-14T15:00:00Z",
+        "eventLink": "https://actionnetwork.org/events/Vote-With-Us-Bus-Tour-Austin-TX-7",
+        "location": "5801 Ainez Drive, Austin, TX 78744",
+        "state": "TX",
+        "city": "Austin",
+        "zipCode": "78744",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.738208,
+          30.187694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66,
+      "properties": {
+        "name": "Vote With Us Bus Tour - Dallas, TX",
+        "eventDate": "10/15/2020",
+        "timestamp": "2020-10-15T10:00:00Z",
+        "eventLink": "https://actionnetwork.org/events/Vote-With-Us-Bus-Tour-Dallas-TX-5",
+        "location": "4100 Cedar Springs Rd, Dallas, TX 75219",
+        "state": "TX",
+        "city": "Dallas",
+        "zipCode": "75219",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.812354,
+          32.812423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67,
+      "properties": {
+        "name": "Revolutionize the Vote Instagram Live with Adrian Stevens & Thomas Lopez",
+        "eventDate": "10/12/2020",
+        "timestamp": "2020-10-12T18:00:00Z",
+        "eventLink": "https://actionnetwork.org/events/Revolutionize-the-Vote-Instagram-Live-with-Adrian-Stevens-Thomas-Lopez-7",
+        "location": "3980 Broadway Street #103-229, Boulder, CO 80304",
+        "state": "CO",
+        "city": "Boulder",
+        "zipCode": "80304",
+        "eventType": "virtual",
+        "featured": true,
+        "icon": "virtual-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.259703,
+          40.016412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 68,
+      "properties": {
+        "name": "LA Ballot Party #VOTEWITHUS",
+        "eventDate": "10/13/2020",
+        "timestamp": "2020-10-13T18:00:00Z",
+        "eventLink": "https://actionnetwork.org/events/LA-Ballot-Party-VOTEWITHUS-7",
+        "location": "3191 W 4th Street, Los Angeles, CA 90020",
+        "state": "CA",
+        "city": "Los Angeles",
+        "zipCode": "90020",
+        "eventType": "virtual",
+        "featured": true,
+        "icon": "virtual-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.28951,
+          34.06723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 69,
+      "properties": {
+        "name": "Skate to the Polls Los Angeles",
+        "eventDate": "10/24/2020",
+        "timestamp": "2020-10-24T11:00:00Z",
+        "eventLink": "https://actionnetwork.org/events/Skate-to-the-Polls-Los-Angeles-7",
+        "location": "2535A E 12th Street, Los Angeles, CA 90021",
+        "state": "CA",
+        "city": "Los Angeles",
+        "zipCode": "90021",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22686,
+          34.02308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70,
+      "properties": {
+        "name": "Vote With Us Bus Tour - Jackson, MS",
+        "eventDate": "10/17/2020",
+        "timestamp": "2020-10-17T11:30:00Z",
+        "eventLink": "https://actionnetwork.org/events/vote-with-us-bus-tour-jackson-ms-2",
+        "location": "302 Amite Street, Jackson, MS 39201",
+        "state": "MS",
+        "city": "Jackson",
+        "zipCode": "39201",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1915845,
+          32.301933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 71,
+      "properties": {
+        "name": "Vote With Us Bus Tour - Houston, TX",
+        "eventDate": "10/13/2020",
+        "timestamp": "2020-10-13T15:00:00Z",
+        "eventLink": "https://actionnetwork.org/events/Vote-With-Us-Bus-Tour-Houston-TX-7",
+        "location": "1510 Polk Street, Houston, TX 77002",
+        "state": "TX",
+        "city": "Houston",
+        "zipCode": "77002",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.36213,
+          29.750901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 72,
+      "properties": {
+        "name": "Vote in Style",
+        "eventDate": "10/23/2020",
+        "timestamp": "2020-10-23T18:00:00Z",
+        "eventLink": "https://actionnetwork.org/events/Vote-in-Style",
+        "location": "1460 Larimer Street, Denver, CO 80202",
+        "state": "CO",
+        "city": "Denver",
+        "zipCode": "80202",
+        "eventType": "in-person",
+        "featured": false,
+        "icon": "in-person"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.998628,
+          39.748099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 73,
+      "properties": {
+        "name": "Vote To Live: Party At The Polls (Greenville/Greenville County)",
+        "eventDate": "10/24/2020",
+        "timestamp": "2020-10-24T10:00:00Z",
+        "eventLink": "https://www.mobilize.us/collectivepac/event/348175/",
+        "location": "301 University Ridge 1600, Greenville, SC 29601",
+        "state": "SC",
+        "city": "Greenville",
+        "zipCode": "29601",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.382065,
+          34.846404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74,
+      "properties": {
+        "name": "Vote To Live: Party At The Polls (Jacksonville/Duval County)",
+        "eventDate": "10/24/2020",
+        "timestamp": "2020-10-24T10:00:00Z",
+        "eventLink": "https://www.mobilize.us/collectivepac/event/348152/",
+        "location": "7689 Price Lane, Jacksonville, FL 32209",
+        "state": "FL",
+        "city": "Jacksonville",
+        "zipCode": "32209",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.660992,
+          30.369914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 75,
+      "properties": {
+        "name": "Vote To Live: Party At The Polls (Raleigh/Wake County)",
+        "eventDate": "10/24/2020",
+        "timestamp": "2020-10-24T10:00:00Z",
+        "eventLink": "https://www.mobilize.us/collectivepac/event/348077/",
+        "location": "1300 East Martin Street, Raleigh, NC 27610",
+        "state": "NC",
+        "city": "Raleigh",
+        "zipCode": "27610",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.618303,
+          35.775526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 76,
+      "properties": {
+        "name": "Vote To Live: Party At The Polls (Philadelphia/Philadelphia County)",
+        "eventDate": "10/24/2020",
+        "timestamp": "2020-10-24T10:00:00Z",
+        "eventLink": "https://www.mobilize.us/collectivepac/event/348070/",
+        "location": "6601 Elwood Avenue, Philadelphia, PA 19142",
+        "state": "PA",
+        "city": "Philadelphia",
+        "zipCode": "19142",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.168428,
+          39.990821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77,
+      "properties": {
+        "name": "Vote To Live: Party At The Polls (Milwaukee/Milwaukee County)",
+        "eventDate": "10/24/2020",
+        "timestamp": "2020-10-24T10:00:00Z",
+        "eventLink": "https://www.mobilize.us/collectivepac/event/348067/",
+        "location": "5700 West Capitol Drive, Milwaukee, WI 53216",
+        "state": "WI",
+        "city": "Milwaukee",
+        "zipCode": "53216",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.98475,
+          43.09134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 78,
+      "properties": {
+        "name": "Vote To Live: Party At The Polls (Houston/Harris County)",
+        "eventDate": "10/24/2020",
+        "timestamp": "2020-10-24T10:00:00Z",
+        "eventLink": "https://www.mobilize.us/collectivepac/event/348065/",
+        "location": "3100 Cleburne Street, Houston, TX 77004",
+        "state": "TX",
+        "city": "Houston",
+        "zipCode": "77004",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.364871,
+          29.723644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79,
+      "properties": {
+        "name": "Vote To Live: Party At The Polls (Detroit/Wayne County)",
+        "eventDate": "10/24/2020",
+        "timestamp": "2020-10-24T10:00:00Z",
+        "eventLink": "https://www.mobilize.us/collectivepac/event/348061/",
+        "location": "8220 2nd Avenue, Detroit, MI 48202",
+        "state": "MI",
+        "city": "Detroit",
+        "zipCode": "48202",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.079667,
+          42.374145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80,
+      "properties": {
+        "name": "Vote To Live: Party At The Polls (Atlanta/Fulton County)",
+        "eventDate": "10/24/2020",
+        "timestamp": "2020-10-24T10:00:00Z",
+        "eventLink": "https://www.mobilize.us/collectivepac/event/348058/",
+        "location": "1 State Farm Drive, Atlanta, GA 30303",
+        "state": "GA",
+        "city": "Atlanta",
+        "zipCode": "30303",
+        "eventType": "in-person",
+        "featured": false,
+        "icon": "in-person"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.396332,
+          33.75717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81,
+      "properties": {
+        "name": "Vote To Live: Party At The Polls (Cleveland/Cuyahoga County)",
+        "eventDate": "10/26/2020",
+        "timestamp": "2020-10-26T10:00:00Z",
+        "eventLink": "https://www.mobilize.us/collectivepac/event/347403/",
+        "location": "2925 Euclid Avenue, Cleveland, OH 44115",
+        "state": "OH",
+        "city": "Cleveland",
+        "zipCode": "44115",
+        "eventType": "in-person",
+        "featured": true,
+        "icon": "in-person-featured"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.667959,
+          41.502723
+        ]
+      }
+    }
+  ]
+}

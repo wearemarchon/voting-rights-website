@@ -1,0 +1,416 @@
+/* @import './fonts/Baron\ Neue\ Black.otf'; */
+
+@font-face {
+    font-family: 'Baron Neue Black';
+    src: url('./fonts/Baron\ Neue\ Black.otf') format("opentype");
+}
+
+:root {
+    --dark-gray: #262628;
+    --med-gray: #414143;
+    --mid-blue:#225197;
+    --purple: #844179;
+    --light-blue:#99b2d8;
+    --cyan: #69c6b0;
+    --background: var(--dark-gray);
+    --yellow: #f5aa5d;
+    --pink: #f5655B;
+    --red: #EF474E;
+    --dark-blue: #052A7A;
+    --blue: #043CAE;
+    --brand-blue: var(--dark-blue);
+}
+
+/* util-classes */
+.unstyled-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.hidden {
+    display: none;
+}
+
+.multi-gradient {
+    background: linear-gradient(90deg, #F5655B 0%, #043CAE 100%);
+}
+
+.peach-gradient {
+    background: linear-gradient(90deg, rgb(242, 132, 98) 0%, rgb(227, 118, 138) 100%)
+}
+
+.green-gradient {
+    background: linear-gradient(90deg, rgba(136, 198, 86, 1) 0%, rgba(195, 180, 73, 1) 35%, rgba(149, 196, 80, 1) 65%, rgba(136, 198, 86, 1) 100%);
+}
+
+.pink-gradient {
+    background: linear-gradient(90deg, rgba(236, 104, 141, 1) 0%, rgba(230, 113, 164, 1) 35%, rgba(204, 120, 177, 1) 65%, rgba(236, 104, 141, 1) 100%);
+}
+
+.main-gradient {
+    background: linear-gradient(90deg, #F5655B 0%, #043CAE 100%);
+
+}
+/* end util classes */
+
+body { margin: 0; padding: 0; background-color: var(--background);}
+html, body { height: 100%; width: 100%;}
+.map-tool-main {
+        font-family: 'Baron Neue Black', sans-serif;
+        font-style: normal;
+        font-weight: 600;
+    }
+.map-tool-main h1 {
+        font-family: 'Raleway', sans-serif;
+        font-size: 73px;
+    }
+.map-tool-main h2 {
+        font-family: 'Playfair Display', serif;
+        font-size: 66px;
+    }
+.map-tool-main h3 {
+        font-family: 'Playfair Display', serif;
+        text-transform: uppercase;
+        font-size: 18px;
+    }
+.map-tool-main h4 {
+        font-family: 'Playfair Display', serif;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 20px;
+    }
+
+
+.map-tool-main {
+    display: flex;
+    flex-flow: row;
+    height: 100vh;
+    width: 100%;
+    align-items: stretch;
+}
+
+.sidebar {
+    flex: 0 0 400px;
+    overflow: scroll;
+    height: 100vh;
+}
+
+.no-events-response {
+    color: white;
+    align-self: center;
+    margin-top: 50%;
+    padding: 20px;
+}
+
+.map-container {
+    display: flex;
+    flex-flow: column wrap;
+    height: 100vh;
+    flex: 1 1 auto;
+}
+
+#map {
+    flex: 2;
+}
+
+
+.filter-bar {
+    display: flex;
+    flex-flow: row wrap;
+    background: var(--background);
+    justify-content: space-evenly;
+    color: white;
+    box-sizing: border-box;
+    align-items: center ;
+    height:60px;
+}
+
+.filter-bar .filter-item {
+    flex: 1;
+    text-align: center;
+}
+
+.filter-bar .date-button:last-of-type {
+    border-right: none;
+}
+
+.filter-bar .date-button {
+    cursor: pointer;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100%;
+}
+
+.filter-bar .date-button.active {
+    border-right-color: var(--dark-blue);
+    border-left-color: var(--dark-blue);
+}
+
+.icon {
+    height: 18px;
+    width: 18px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+.virtual-icon {
+    background-image: url('./images/virtual-general.svg');
+}
+
+.in-person-icon {
+    background-image: url('./images/in-person-general.svg');
+}
+
+.event-type-label {
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 10px;
+    display: flex;
+    color: rgb(255 255 255 / 37%);
+
+}
+
+.event-type-label .icon {
+    margin-right: 10px;
+}
+
+.event-type-label li:last-of-type:before {
+    content: " \00b7";
+    margin: 10px;
+}
+
+.card-title {
+    margin-top: 10px;
+}
+
+.event-card {
+    background-color: var(--med-gray);
+    color: white;
+    padding: 10px;
+    border-bottom: 0.5px solid var(--dark-gray);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.event-card.active {
+    background-color: var(--dark-gray);
+}
+.event-card.virtual h4{
+    color: var(--brand-blue);
+}
+.event-card.in-person h4{
+    color: #a4a2a4;
+}
+.event-card.featured h4 {
+    color: var(--red);
+}
+.event-card.active h4 {
+  background: linear-gradient(90deg, var(--brand-blue) 0%, var(--red) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.event-card .link-button {
+    width: 100px;
+    margin: 10px;
+}
+
+.map-popup .link-button {
+    background-color: var(--blue);
+    margin-bottom: 3px;
+}
+
+.map-popup a {
+    color: var(--med-gray);
+    text-decoration: none;
+}
+
+
+.link-button {
+    text-align: center;
+    cursor: pointer;
+    box-sizing: border-box;
+    border: none;
+    padding: 5px 20px;
+}
+
+.link-button a {
+    text-decoration: none;
+    color: white;
+}
+.usa-icon {
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+    background-image: url('./images/usa.svg');
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+.multi-button {
+    color:white;
+    background: transparent;
+}
+
+.peach-button {
+    color:white;
+    background: transparent;
+}
+.blue-button {
+    color: white;
+    background: transparent;
+}
+.pink-button {
+    color: white;
+    background: transparent;
+}
+
+.multi-button.active {
+    color: var(--blue);
+    background: linear-gradient(90deg, rgb(227, 221, 221) 0%, rgb(242, 247, 246) 20%, rgb(248, 255, 252) 50%, rgb(244, 237, 237) 80%, rgb(239, 244, 235) 100%);
+}
+
+.peach-button.active {
+    background: linear-gradient(90deg, rgba(242, 97, 70, 1) 0%, rgba(251, 114, 44, 1) 35%, rgba(246, 91, 90, 1) 65%, rgba(248, 83, 113, 1) 100%);
+    color: white;
+}
+
+.blue-button.active {
+    background: linear-gradient(90deg, rgb(104, 131, 174) 0%, rgb(84, 115, 164) 65%, rgb(73, 97, 134) 100%);
+    color: white;
+}
+
+.pink-button.active {
+    background: linear-gradient(90deg, rgb(98, 93, 94) 0%, rgb(125, 116, 123) 65%, rgb(128, 121, 122) 100%);
+    color: white;
+}
+
+.mapboxgl-popup-tip {
+    visibility: hidden;
+}
+.mapboxgl-popup-content {
+    background: rgb(242, 242, 242);
+    box-shadow: 2px 2px 5px;
+    border-radius: 0px;
+}
+.filters {
+    position: absolute;
+    top: 62px;
+    z-index: 1;
+    left: 10px;
+    display: flex;
+    justify-content: flex-end;
+    flex-flow: row wrap;
+    padding: 2px;
+    background: #ffffffbd;
+    border-radius: 5px;
+}
+.filters .checkbox-container {
+    position: relative;
+}
+.checkbox-container.label {
+    margin: auto 10px;
+}
+
+/* switch */
+
+.switch[type=checkbox] {
+    height: 0;
+    width: 0;
+    visibility: hidden;
+    position: absolute;
+}
+
+.switch-label {
+    cursor: pointer;
+    text-indent: -9999px;
+    width: 44px;
+    height: 22px;
+    background: #9c9a9a99;
+    display: block;
+    border-radius: 100px;
+    position: relative;
+}
+
+.switch-label:after {
+    content: '';
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    width: 18px;
+    height: 18px;
+    background: var(--red);
+    border: 2px solid #fff;
+    box-sizing: border-box;
+    border-radius: 90px;
+    transition: 0.3s;
+}
+
+.switch:checked+label {
+    background: #7b113c;
+}
+
+.switch:checked+label:after {
+    left: calc(100% - 2px);
+    transform: translateX(-100%);
+}
+
+.switch-label:active:after {
+    width: 130px;
+}
+
+/* switch-end */
+
+
+.map-overlay {
+    position: absolute;
+    bottom: 10px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    font-family: Arial, sans-serif;
+    overflow: auto;
+    z-index: 1;
+}
+.inset {
+    width: 230px;
+    flex: 1;
+    height:150px;
+    border:1px solid #fff;
+    margin-left: 10px;
+    margin-right: 10px;
+    box-sizing: content-box;
+}
+
+.inset .mapboxgl-control-container{
+    display: none;
+}
+.mapboxgl-popup {
+    z-index: 3000;
+}
+
+
+@media screen and (max-width: 700px) {
+    .map-tool-main {
+        flex-flow: column;
+    }
+    .map-container {
+        height: 60vh;
+        flex: 1 1 100%;
+    }
+    .sidebar {
+        width: 100%;
+        flex: 1 1 100%;
+    }
+    .inset {
+        height: 80px;
+    }
+
+}
