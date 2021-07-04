@@ -8,8 +8,7 @@
 :root {
     --dark-gray: #262628;
     --med-gray: #414143;
-    --mid-blue:#225197;
-    --purple: #844179;
+    --purple: #e096aa;
     --light-blue:#99b2d8;
     --cyan: #69c6b0;
     --background: var(--dark-gray);
@@ -18,7 +17,8 @@
     --red: #EF474E;
     --dark-blue: #052A7A;
     --blue: #043CAE;
-    --brand-blue: var(--dark-blue);
+    --light-blue: #6089c7;
+    --brand-blue: var(--light-blue);
 }
 
 /* util-classes */
@@ -32,12 +32,8 @@
     display: none;
 }
 
-.multi-gradient {
-    background: linear-gradient(90deg, #F5655B 0%, #043CAE 100%);
-}
-
 .peach-gradient {
-    background: linear-gradient(90deg, rgb(242, 132, 98) 0%, rgb(227, 118, 138) 100%)
+    background: linear-gradient(90deg, var(--pink) 0%, var(--yellow))
 }
 
 .green-gradient {
@@ -70,7 +66,7 @@ html, body { height: 100%; width: 100%;}
         font-size: 66px;
     }
 .map-tool-main h3 {
-        font-family: 'Playfair Display', serif;
+        font-family: 'Baron Neue Black', sans-serif;
         text-transform: uppercase;
         font-size: 18px;
     }
@@ -183,13 +179,16 @@ html, body { height: 100%; width: 100%;}
     margin: 10px;
 }
 
-.card-title {
+.event-card .card-title {
     margin-top: 10px;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: 100;
 }
 
 .event-card {
     background-color: var(--med-gray);
-    color: white;
+    color: #e2e2e2;
     padding: 10px;
     border-bottom: 0.5px solid var(--dark-gray);
     display: flex;
@@ -201,14 +200,14 @@ html, body { height: 100%; width: 100%;}
 .event-card.active {
     background-color: var(--dark-gray);
 }
-.event-card.virtual h4{
+.event-card .virtual-tag{
     color: var(--brand-blue);
 }
-.event-card.in-person h4{
-    color: #a4a2a4;
+.event-card .in-person-tag{
+    color: var(--purple);
 }
-.event-card.featured h4 {
-    color: var(--red);
+.event-card .featured-tag {
+    color: var(--pink);
 }
 .event-card.active h4 {
   background: linear-gradient(90deg, var(--brand-blue) 0%, var(--red) 100%);
@@ -266,28 +265,28 @@ html, body { height: 100%; width: 100%;}
     color: white;
     background: transparent;
 }
-.pink-button {
+.purple-button {
     color: white;
     background: transparent;
 }
 
 .multi-button.active {
-    color: var(--blue);
-    background: linear-gradient(90deg, rgb(227, 221, 221) 0%, rgb(242, 247, 246) 20%, rgb(248, 255, 252) 50%, rgb(244, 237, 237) 80%, rgb(239, 244, 235) 100%);
+    color: white;
+    background: linear-gradient(120deg, var(--pink) 0%, var(--red) 20%, var(--blue) 120%);
 }
 
 .peach-button.active {
-    background: linear-gradient(90deg, rgba(242, 97, 70, 1) 0%, rgba(251, 114, 44, 1) 35%, rgba(246, 91, 90, 1) 65%, rgba(248, 83, 113, 1) 100%);
+    background: linear-gradient(120deg, rgba(242, 97, 70, 1) 0%, rgba(251, 114, 44, 1) 35%, rgba(246, 91, 90, 1) 65%, rgba(248, 83, 113, 1) 100%);
     color: white;
 }
 
 .blue-button.active {
-    background: linear-gradient(90deg, rgb(104, 131, 174) 0%, rgb(84, 115, 164) 65%, rgb(73, 97, 134) 100%);
+    background: linear-gradient(90deg, var(--light-blue) 0%, var(--dark-blue));
     color: white;
 }
 
-.pink-button.active {
-    background: linear-gradient(90deg, rgb(98, 93, 94) 0%, rgb(125, 116, 123) 65%, rgb(128, 121, 122) 100%);
+.purple-button.active {
+    background: linear-gradient(90deg, var(--purple) 0%, rgb(116, 81, 122));
     color: white;
 }
 
@@ -345,7 +344,7 @@ html, body { height: 100%; width: 100%;}
     left: 2px;
     width: 18px;
     height: 18px;
-    background: var(--red);
+    background: var(--pink);
     border: 2px solid #fff;
     box-sizing: border-box;
     border-radius: 90px;
