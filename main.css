@@ -210,7 +210,7 @@ html, body { height: 100%; width: 100%;}
     color: var(--pink);
 }
 .event-card.active h4 {
-  background: linear-gradient(90deg, var(--brand-blue) 0%, var(--red) 100%);
+  background: linear-gradient(120deg, var(--red) 0%, var(--brand-blue) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }

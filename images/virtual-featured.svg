@@ -4,15 +4,15 @@
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40px" height="40px"
 	 viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#F5AA5D;stroke:#994D0A;stroke-width:2;stroke-miterlimit:10;}
+	.st0{fill:#F5655B;stroke:#EF474E;stroke-width:2;stroke-miterlimit:10;}
 	.st1{fill:#7E7F81;}
-	.st2{fill:#DADEE5;}
+	.st2{fill:#3D3D3D;}
 	.st3{fill:none;}
 </style>
 <circle class="st0" cx="20" cy="20" r="19"/>
 <rect x="9.2" y="11" class="st1" width="21.6" height="14.6"/>
-<path class="st2" d="M30.9,24.4H9.2l1.2,1.2V11l-1.2,1.2h21.7L29.7,11v14.6c0,0.7,0.5,1.2,1.2,1.2c0.7,0,1.2-0.5,1.2-1.2V11
-	c0-0.6-0.6-1.2-1.2-1.2H9.2C8.6,9.8,8,10.4,8,11v14.6c0,0.7,0.5,1.2,1.2,1.2c0,0,0,0,0,0h21.7c0.7,0,1.2-0.5,1.2-1.2
+<path class="st2" d="M30.9,24.4H9.2l1.2,1.2V11l-1.2,1.2h21.7L29.7,11v14.6c0,0.7,0.5,1.2,1.2,1.2s1.2-0.5,1.2-1.2V11
+	c0-0.6-0.6-1.2-1.2-1.2H9.2C8.6,9.8,8,10.4,8,11v14.6c0,0.7,0.5,1.2,1.2,1.2l0,0h21.7c0.7,0,1.2-0.5,1.2-1.2
 	C32.1,24.9,31.6,24.4,30.9,24.4z"/>
 <rect x="16.8" y="25.6" class="st2" width="6.6" height="4.1"/>
 <line class="st3" x1="27.2" y1="31" x2="12.8" y2="31"/>
