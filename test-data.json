@@ -14,7 +14,7 @@
         "city": "Pompano Beach",
         "zipCode": "33060",
         "eventType": "virtual",
-        "featured": false,
+        "flagship": false,
         "icon": "virtual"
       },
       "geometry": {
@@ -38,7 +38,7 @@
         "city": "Los Angeles",
         "zipCode": "90026",
         "eventType": "in-person",
-        "featured": false,
+        "flagship": false,
         "icon": "in-person"
       },
       "geometry": {
@@ -62,7 +62,7 @@
         "city": "Los Angeles",
         "zipCode": "90026",
         "eventType": "in-person",
-        "featured": false,
+        "flagship": false,
         "icon": "in-person"
       },
       "geometry": {
@@ -86,7 +86,7 @@
         "city": "Los Angeles",
         "zipCode": "90026",
         "eventType": "in-person",
-        "featured": false,
+        "flagship": false,
         "icon": "in-person"
       },
       "geometry": {
@@ -110,7 +110,7 @@
         "city": "Los Angeles",
         "zipCode": "90026",
         "eventType": "virtual",
-        "featured": false,
+        "flagship": false,
         "icon": "virtual"
       },
       "geometry": {
@@ -134,7 +134,7 @@
         "city": "New York, New York",
         "zipCode": "10108",
         "eventType": "virtual",
-        "featured": false,
+        "flagship": false,
         "icon": "virtual"
       },
       "geometry": {
@@ -158,7 +158,7 @@
         "city": "Houston",
         "zipCode": "77081",
         "eventType": "in-person",
-        "featured": false,
+        "flagship": false,
         "icon": "in-person"
       },
       "geometry": {
@@ -182,7 +182,7 @@
         "city": "Houston",
         "zipCode": "77054",
         "eventType": "in-person",
-        "featured": false,
+        "flagship": false,
         "icon": "in-person"
       },
       "geometry": {
@@ -206,7 +206,7 @@
         "city": "Orange",
         "zipCode": "22960",
         "eventType": "virtual",
-        "featured": false,
+        "flagship": false,
         "icon": "virtual"
       },
       "geometry": {
@@ -230,8 +230,8 @@
         "city": "New York",
         "zipCode": "10019",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -254,8 +254,8 @@
         "city": "New York",
         "zipCode": "10012",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -278,8 +278,8 @@
         "city": "New York",
         "zipCode": "10451",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -302,7 +302,7 @@
         "city": "Des Moines",
         "zipCode": "50309",
         "eventType": "virtual",
-        "featured": false,
+        "flagship": false,
         "icon": "virtual"
       },
       "geometry": {
@@ -326,7 +326,7 @@
         "city": "Des Moines",
         "zipCode": "50309",
         "eventType": "virtual",
-        "featured": false,
+        "flagship": false,
         "icon": "virtual"
       },
       "geometry": {
@@ -350,7 +350,7 @@
         "city": "Detroit",
         "zipCode": "48202",
         "eventType": "virtual",
-        "featured": false,
+        "flagship": false,
         "icon": "virtual"
       },
       "geometry": {
@@ -374,7 +374,7 @@
         "city": "Milwaukee",
         "zipCode": "53202",
         "eventType": "virtual",
-        "featured": false,
+        "flagship": false,
         "icon": "virtual"
       },
       "geometry": {
@@ -398,7 +398,7 @@
         "city": "Philadelphia",
         "zipCode": "19107",
         "eventType": "virtual",
-        "featured": false,
+        "flagship": false,
         "icon": "virtual"
       },
       "geometry": {
@@ -422,7 +422,7 @@
         "city": "Philadelphia",
         "zipCode": "19107",
         "eventType": "virtual",
-        "featured": false,
+        "flagship": false,
         "icon": "virtual"
       },
       "geometry": {
@@ -446,7 +446,7 @@
         "city": "Charlotte",
         "zipCode": "28204",
         "eventType": "virtual",
-        "featured": false,
+        "flagship": false,
         "icon": "virtual"
       },
       "geometry": {
@@ -470,7 +470,7 @@
         "city": "Denver",
         "zipCode": "80203",
         "eventType": "in-person",
-        "featured": false,
+        "flagship": false,
         "icon": "in-person"
       },
       "geometry": {
@@ -494,7 +494,7 @@
         "city": "Washington",
         "zipCode": "20500",
         "eventType": "virtual",
-        "featured": false,
+        "flagship": false,
         "icon": "virtual"
       },
       "geometry": {
@@ -518,7 +518,7 @@
         "city": "Lauderhill",
         "zipCode": "33313",
         "eventType": "in-person",
-        "featured": false,
+        "flagship": false,
         "icon": "in-person"
       },
       "geometry": {
@@ -542,7 +542,7 @@
         "city": "Los Angeles",
         "zipCode": "90048",
         "eventType": "virtual",
-        "featured": false,
+        "flagship": false,
         "icon": "virtual"
       },
       "geometry": {
@@ -566,7 +566,7 @@
         "city": "Los Angeles",
         "zipCode": "90048",
         "eventType": "in-person",
-        "featured": false,
+        "flagship": false,
         "icon": "in-person"
       },
       "geometry": {
@@ -590,7 +590,7 @@
         "city": "Albuquerque",
         "zipCode": "87102",
         "eventType": "in-person",
-        "featured": false,
+        "flagship": false,
         "icon": "in-person"
       },
       "geometry": {
@@ -614,7 +614,7 @@
         "city": "Edina",
         "zipCode": "55435",
         "eventType": "virtual",
-        "featured": false,
+        "flagship": false,
         "icon": "virtual"
       },
       "geometry": {
@@ -638,7 +638,7 @@
         "city": "Edina",
         "zipCode": "55435",
         "eventType": "virtual",
-        "featured": false,
+        "flagship": false,
         "icon": "virtual"
       },
       "geometry": {
@@ -662,7 +662,7 @@
         "city": "Winston-Salem",
         "zipCode": "27105",
         "eventType": "in-person",
-        "featured": false,
+        "flagship": false,
         "icon": "in-person"
       },
       "geometry": {
@@ -686,7 +686,7 @@
         "city": "Charlotte",
         "zipCode": "28206",
         "eventType": "in-person",
-        "featured": false,
+        "flagship": false,
         "icon": "in-person"
       },
       "geometry": {
@@ -710,7 +710,7 @@
         "city": "Hershey",
         "zipCode": "17033",
         "eventType": "in-person",
-        "featured": false,
+        "flagship": false,
         "icon": "in-person"
       },
       "geometry": {
@@ -734,7 +734,7 @@
         "city": "Hazleton",
         "zipCode": "18201",
         "eventType": "in-person",
-        "featured": false,
+        "flagship": false,
         "icon": "in-person"
       },
       "geometry": {
@@ -758,7 +758,7 @@
         "city": "Canton",
         "zipCode": "44702",
         "eventType": "in-person",
-        "featured": false,
+        "flagship": false,
         "icon": "in-person"
       },
       "geometry": {
@@ -782,7 +782,7 @@
         "city": "Durham",
         "zipCode": "27705",
         "eventType": "in-person",
-        "featured": false,
+        "flagship": false,
         "icon": "in-person"
       },
       "geometry": {
@@ -806,7 +806,7 @@
         "city": "Oceanside",
         "zipCode": "92054",
         "eventType": "virtual",
-        "featured": false,
+        "flagship": false,
         "icon": "virtual"
       },
       "geometry": {
@@ -830,7 +830,7 @@
         "city": "Kayenta",
         "zipCode": "86033",
         "eventType": "in-person",
-        "featured": false,
+        "flagship": false,
         "icon": "in-person"
       },
       "geometry": {
@@ -854,7 +854,7 @@
         "city": "San Francisco",
         "zipCode": "94116",
         "eventType": "virtual",
-        "featured": false,
+        "flagship": false,
         "icon": "virtual"
       },
       "geometry": {
@@ -878,7 +878,7 @@
         "city": "Kenema",
         "zipCode": "24735",
         "eventType": "in-person",
-        "featured": false,
+        "flagship": false,
         "icon": "in-person"
       },
       "geometry": {
@@ -902,7 +902,7 @@
         "city": "Littleton",
         "zipCode": "80123",
         "eventType": "in-person",
-        "featured": false,
+        "flagship": false,
         "icon": "in-person"
       },
       "geometry": {
@@ -926,7 +926,7 @@
         "city": "Brooklyn",
         "zipCode": "11217",
         "eventType": "virtual",
-        "featured": false,
+        "flagship": false,
         "icon": "virtual"
       },
       "geometry": {
@@ -950,7 +950,7 @@
         "city": "Edina",
         "zipCode": "55435",
         "eventType": "virtual",
-        "featured": false,
+        "flagship": false,
         "icon": "virtual"
       },
       "geometry": {
@@ -974,7 +974,7 @@
         "city": "San Francisco",
         "zipCode": "94116",
         "eventType": "virtual",
-        "featured": false,
+        "flagship": false,
         "icon": "virtual"
       },
       "geometry": {
@@ -998,7 +998,7 @@
         "city": "Winston-Salem",
         "zipCode": "27106",
         "eventType": "in-person",
-        "featured": false,
+        "flagship": false,
         "icon": "in-person"
       },
       "geometry": {
@@ -1022,8 +1022,8 @@
         "city": "San Francisco",
         "zipCode": "94110",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1046,8 +1046,8 @@
         "city": "Sitka",
         "zipCode": "99835",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1070,8 +1070,8 @@
         "city": "San Francisco",
         "zipCode": "94123",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1094,8 +1094,8 @@
         "city": "Colorado Springs",
         "zipCode": "80903",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1118,8 +1118,8 @@
         "city": "Colorado Springs",
         "zipCode": "80903",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1142,8 +1142,8 @@
         "city": "Paramus",
         "zipCode": "7652",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1166,8 +1166,8 @@
         "city": "Los Angeles",
         "zipCode": "90069",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1190,8 +1190,8 @@
         "city": "Miami",
         "zipCode": "33161",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1214,8 +1214,8 @@
         "city": "Birmingham",
         "zipCode": "35203",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1238,8 +1238,8 @@
         "city": "Birmingham",
         "zipCode": "35203",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1262,8 +1262,8 @@
         "city": "Charlotte",
         "zipCode": "28202",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1286,8 +1286,8 @@
         "city": "Fayetteville",
         "zipCode": "28301",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1310,8 +1310,8 @@
         "city": "Orlando",
         "zipCode": "32801",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1334,8 +1334,8 @@
         "city": "Montgomery",
         "zipCode": "36104",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1358,8 +1358,8 @@
         "city": "Chattanooga",
         "zipCode": "37411",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1382,8 +1382,8 @@
         "city": "Columbia",
         "zipCode": "29204",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1406,8 +1406,8 @@
         "city": "Atlanta",
         "zipCode": "30303",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1430,8 +1430,8 @@
         "city": "Nashville",
         "zipCode": "37210",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1454,7 +1454,7 @@
         "city": "Syracuse",
         "zipCode": "13204",
         "eventType": "virtual",
-        "featured": false,
+        "flagship": false,
         "icon": "virtual"
       },
       "geometry": {
@@ -1478,7 +1478,7 @@
         "city": "Denver",
         "zipCode": "80202",
         "eventType": "virtual",
-        "featured": false,
+        "flagship": false,
         "icon": "virtual"
       },
       "geometry": {
@@ -1502,8 +1502,8 @@
         "city": "Los Angeles",
         "zipCode": "90012",
         "eventType": "virtual",
-        "featured": true,
-        "icon": "virtual-featured"
+        "flagship": true,
+        "icon": "virtual-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1526,8 +1526,8 @@
         "city": "Forth Worth",
         "zipCode": "76112",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1550,8 +1550,8 @@
         "city": "Austin",
         "zipCode": "78744",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1574,8 +1574,8 @@
         "city": "Dallas",
         "zipCode": "75219",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1598,8 +1598,8 @@
         "city": "Boulder",
         "zipCode": "80304",
         "eventType": "virtual",
-        "featured": true,
-        "icon": "virtual-featured"
+        "flagship": true,
+        "icon": "virtual-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1622,8 +1622,8 @@
         "city": "Los Angeles",
         "zipCode": "90020",
         "eventType": "virtual",
-        "featured": true,
-        "icon": "virtual-featured"
+        "flagship": true,
+        "icon": "virtual-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1646,8 +1646,8 @@
         "city": "Los Angeles",
         "zipCode": "90021",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1670,8 +1670,8 @@
         "city": "Jackson",
         "zipCode": "39201",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1694,8 +1694,8 @@
         "city": "Houston",
         "zipCode": "77002",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1718,7 +1718,7 @@
         "city": "Denver",
         "zipCode": "80202",
         "eventType": "in-person",
-        "featured": false,
+        "flagship": false,
         "icon": "in-person"
       },
       "geometry": {
@@ -1742,8 +1742,8 @@
         "city": "Greenville",
         "zipCode": "29601",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1766,8 +1766,8 @@
         "city": "Jacksonville",
         "zipCode": "32209",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1790,8 +1790,8 @@
         "city": "Raleigh",
         "zipCode": "27610",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1814,8 +1814,8 @@
         "city": "Philadelphia",
         "zipCode": "19142",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1838,8 +1838,8 @@
         "city": "Milwaukee",
         "zipCode": "53216",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1862,8 +1862,8 @@
         "city": "Houston",
         "zipCode": "77004",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1886,8 +1886,8 @@
         "city": "Detroit",
         "zipCode": "48202",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",
@@ -1910,7 +1910,7 @@
         "city": "Atlanta",
         "zipCode": "30303",
         "eventType": "in-person",
-        "featured": false,
+        "flagship": false,
         "icon": "in-person"
       },
       "geometry": {
@@ -1934,8 +1934,8 @@
         "city": "Cleveland",
         "zipCode": "44115",
         "eventType": "in-person",
-        "featured": true,
-        "icon": "in-person-featured"
+        "flagship": true,
+        "icon": "in-person-flagship"
       },
       "geometry": {
         "type": "Point",

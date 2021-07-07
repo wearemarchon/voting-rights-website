@@ -174,10 +174,10 @@ html, body { height: 100%; width: 100%;}
     margin-right: 10px;
 }
 
-.event-type-label li:last-of-type:before {
+/* .event-type-label li:last-of-type:before {
     content: " \00b7";
     margin: 10px;
-}
+} */
 
 .event-card .card-title {
     margin-top: 10px;
@@ -207,7 +207,7 @@ html, body { height: 100%; width: 100%;}
     color: var(--purple);
 }
 .event-card .featured-tag {
-    color: var(--pink);
+    color: var(--yellow);
 }
 .event-card.active h4 {
   background: linear-gradient(120deg, var(--red) 0%, var(--brand-blue) 100%);
@@ -357,20 +357,21 @@ html, body { height: 100%; width: 100%;}
     left: 2px;
     width: 18px;
     height: 18px;
-    background: var(--pink);
-    border: 2px solid #fff;
+    background: white;
+    border: 2px solid var(--yellow);
     box-sizing: border-box;
     border-radius: 90px;
     transition: 0.3s;
 }
 
 .switch:checked+label {
-    background: #7b113c;
+    /* background: var(--pink); */
 }
 
 .switch:checked+label:after {
     left: calc(100% - 2px);
     transform: translateX(-100%);
+    background-color: var(--blue);
 }
 
 .switch-label:active:after {
