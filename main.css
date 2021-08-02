@@ -8,7 +8,6 @@
 :root {
     --dark-gray: #262628;
     --med-gray: #414143;
-    --purple: #e096aa;
     --light-blue:#99b2d8;
     --cyan: #69c6b0;
     --background: var(--dark-gray);
@@ -19,6 +18,8 @@
     --blue: #043CAE;
     --light-blue: #6089c7;
     --brand-blue: var(--light-blue);
+    --purple: #9342be;
+    --peach: #DF4654;
 }
 
 /* util-classes */
@@ -170,14 +171,21 @@ html, body { height: 100%; width: 100%;}
 
 }
 
+.event-type-label .in-person {
+    color: var(--peach)
+}
+
+.event-type-label .virtual{
+    color: var(--purple)
+}
+
 .event-type-label .icon {
     margin-right: 10px;
 }
-
-/* .event-type-label li:last-of-type:before {
+.more-than-one li:last-of-type:before {
     content: " \00b7";
     margin: 10px;
-} */
+}
 
 .event-card .card-title {
     margin-top: 10px;
@@ -258,7 +266,7 @@ html, body { height: 100%; width: 100%;}
 }
 
 .peach-button {
-    color:white;
+    color:var(--peach);
     background: transparent;
 }
 .blue-button {
@@ -266,7 +274,7 @@ html, body { height: 100%; width: 100%;}
     background: transparent;
 }
 .purple-button {
-    color: white;
+    color: var(--purple);
     background: transparent;
 }
 
